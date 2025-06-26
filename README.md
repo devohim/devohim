@@ -23,8 +23,7 @@ Semangat untuk terus belajar dan membagikan perjalanan saya di GitHub 🚀
 ---
 
 📫 **Hubungi saya di:**
-- 📧 Email: kamu@email.com
-- 💬 Discord / WA: (opsional)
+- 📧 Email: rohimjr020205@gmail.com
 
 ---
 
