@@ -1,4 +1,4 @@
-### 👋 Hi, saya [Nama Kamu]!
+### 👋 Hi, saya Khim !
 
 Saya pemula yang sedang belajar dunia pemrograman dan web development.  
 Semangat untuk terus belajar dan membagikan perjalanan saya di GitHub 🚀
