@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Hi, saya [Nama Kamu]!
 
-<!--
-**devohim/devohim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya pemula yang sedang belajar dunia pemrograman dan web development.  
+Semangat untuk terus belajar dan membagikan perjalanan saya di GitHub 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Saat ini sedang belajar:**
+- HTML & CSS
+- JavaScript dasar
+- C++ & Struktur Data
+
+🛠 **Tools & Tech yang sedang saya coba:**
+- VS Code
+- Git & GitHub
+- Canva (buat desain UI sederhana)
+
+📌 **Tujuan GitHub ini:**
+- Dokumentasi perjalanan belajar saya
+- Menyimpan mini project & latihan
+- Membangun portofolio dari awal
+
+---
+
+📫 **Hubungi saya di:**
+- 📧 Email: kamu@email.com
+- 💬 Discord / WA: (opsional)
+
+---
+
+✨ Terima kasih sudah mampir ke profil saya!
